@@ -1,0 +1,35 @@
+.banner{
+	background-image: url('../img/road.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.slider{
+	background-color: rgba(1, 1, 1, 0.4);
+	color: white;
+	padding: 70px;
+}
+.slider h1{
+	font-size: 30px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+.slider p{
+	font-size: 16px;
+	margin-bottom: 30px;
+}
+.slider button{
+	margin-bottom: 100px;
+	margin-top: 30px;
+}
+ .carousel-indicators {
+    bottom: 40px;
+}
+.carousel-indicators [data-bs-target] {
+     
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    margin-right: 10px;
+    background-color: rgba(1, 1, 1, 1);
+}
